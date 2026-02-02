@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EduFocus</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header -->
+    <div class="header">
+      <img src="icon.png" class="logo" alt="EduFocus logo">
+      <h2>EduFocus</h2>
+    </div>
+
+    <!-- Focus Mode -->
+    <div class="card">
+      <div class="label">Focus Mode</div>
+      <select id="mode">
+        <option value="off">Off</option>
+        <option value="learning">Learning</option>
+        <option value="strict">Strict</option>
+      </select>
+    </div>
+
+    <!-- Dark Mode Toggle -->
+    <div class="card toggle">
+      <span class="label">Dark Mode</span>
+      <input type="checkbox" id="darkToggle">
+    </div>
+
+    <!-- Study Time -->
+    <div class="card study-time">
+      <h4>Study Time</h4>
+      <p id="time">0 min</p>
+    </div>
+
+    <!-- Status -->
+    <div id="status" class="status">Mode: Off</div>
+
+    <!-- Footer -->
+    <footer>
+      Distraction-Free YouTube
+    </footer>
+
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
