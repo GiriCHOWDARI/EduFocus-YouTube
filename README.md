@@ -49,12 +49,10 @@ EduFocus is a Chrome extension designed to help students stay focused while lear
 ---
 
 ## 📸 Screenshots
+<img width="344" height="483" alt="image" src="https://github.com/user-attachments/assets/4ad96ee9-00da-4ed9-a092-cab00656c9d0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4b1b15f-09c0-445d-8797-1610b28126e6" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fce43bc1-8798-455c-a455-330cef4ecbd5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60c67185-df57-4230-a283-70760240f445" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10895815-cf1b-42e9-a879-ad97abac7417" />
-
-
-
 ---
 
 ## 🔮 Future Enhancements
