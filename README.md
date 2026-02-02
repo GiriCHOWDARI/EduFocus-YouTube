@@ -62,6 +62,3 @@ EduFocus is a Chrome extension designed to help students stay focused while lear
 - AI-based video classification (planned)
 
 ---
-
-## 📄 License
-MIT
